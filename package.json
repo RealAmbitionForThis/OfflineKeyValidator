@@ -1,0 +1,19 @@
+{
+  "name": "apikeydemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wasmer/wasi": "^1.2.2",
+    "@wasmer/wasmfs": "^0.12.0",
+    "crypto-js": "^4.1.1",
+    "elliptic": "^6.5.4",
+    "javy-cli": "^0.2.0"
+  }
+}
